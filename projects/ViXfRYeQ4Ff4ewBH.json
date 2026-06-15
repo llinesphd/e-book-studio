@@ -1,0 +1,4248 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "1275d0ae-3429-4e01-a445-541f735ec659",
+        "text": {
+          "ops": [
+            {
+              "insert": "How to Train Your AI Dragon: A Social Scientist's Guide to Getting Started"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "3e57f87e-24a2-4d8d-837d-50635a238967",
+            "text": {
+              "ops": [
+                {
+                  "insert": "COVER",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ec8a3a69-6bb8-455d-95e5-d15378e1ce85",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "How to Train Your AI Dragon",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7f70426e-7653-408f-a4d4-5cc7078f44e7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "A Social Scientist's Guide to Getting Started",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2f990bb5-ee7f-430d-a396-863eafd45788",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lisa M. Lines, PhD, MPH",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "916858e5-5840-48b4-924d-d3b414497e9b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "LisaLines.com",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee8713b6-91b2-42c7-a6a4-e43ae4889312",
+            "text": {
+              "ops": [
+                {
+                  "insert": "TITLE PAGE",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b048efff-3c55-429f-bd45-6d0f07dba226",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "How to Train Your AI Dragon",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9e07526-e041-4bd4-80d4-06a1209d6051",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "A Social Scientist's Guide to Getting Started",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e145a87c-f448-4216-8df2-68bd30333f8f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "By Lisa M. Lines, PhD, MPH",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "54b7bc01-9b27-41df-900c-2621095a34c5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lisa Lines Consulting | Christchurch, New Zealand | LisaLines.com",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "417e4f55-89ed-4997-b02d-f5e022aef74d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "© 2026 Lisa M. Lines. All rights reserved.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "c1fe1451-3c7d-4b3b-a158-4b66d8504f89",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ABOUT THE AUTHOR",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "22a1e483-1d11-4727-9eaa-418515b67917",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lisa M. Lines, PhD, MPH is a social scientist and independent consultant based in Christchurch, New Zealand. With decades of experience in public health research, she works across multiple research areas including health equity, chronic disease epidemiology, and research methodology.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "16ba146f-de7f-4d95-9a6b-3fd6cc985637",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lisa is the founder of Lisa Lines Consulting and writes at LisaLines.com about research practice, tools, and the changing landscape of academic work. She holds a PhD and a Master of Public Health, and has spent her career bridging the gap between rigorous research and practical application.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f85066b6-54a0-450a-8e5f-234cda7e13b8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "This guide grew out of her own experience navigating AI tools as a working researcher — curious, skeptical, and ultimately persuaded that thoughtful engagement with these technologies is worth the learning curve.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "99171a48-d04e-4381-aae4-c4d4f9600e2f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Website: LisaLines.com",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "95c31a8e-cb60-4cea-ac57-d69d7f417104",
+            "text": {
+              "ops": [
+                {
+                  "insert": "INTRODUCTION: The Dragon in the Room",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "8104da29-5ae9-41fa-9b36-5632a805e508",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "I'll be honest with you: I haven't actually seen the movie, How to Train Your Dragon. I know it involves a Viking boy named Hiccup who befriends a fearsome dragon called Toothless, and that the whole point is that the dragon isn't the threat everyone assumed — it just needed someone willing to approach it differently. That's actually a pretty good description of my experience with AI over the past couple of years.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "87c1e79c-0979-4c65-9bf1-a271ebe91e55",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If you're a social science researcher, you've probably been watching the AI conversation from a cautious distance. Perhaps you have good reasons. The discourse around AI tends to oscillate between utopian hype and existential panic, and neither is useful if you're trying to figure out whether any of this actually helps you do your job better (or find a new one).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c3190f95-f3ee-4d69-82bf-c174397f161e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The academic community has its own version of the village that won't go near the dragon. There are legitimate concerns about plagiarism, acknowledgments, reproducibility, the homogenization of ideas, what it means for graduate students, and data privacy. Those conversations matter, and we should keep having them. But in the meantime, a lot of researchers are finding that AI tools, used thoughtfully, are changing how they work.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "78ed4300-7dac-41e5-88ad-7b3ca17d85e2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "This guide is for people who are somewhere in the middle: not early adopters evangelizing ChatGPT at every faculty meeting, and not committed skeptics either. Just researchers who are curious, a little time-poor, and wondering whether the learning curve is worth it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ed33010f-d95a-456d-bb2f-2c6694f9b1a2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What \"Training\" Actually Means",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6673e129-d6ff-4c95-987a-cfc0f67bf992",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The movie title works on two levels that I find useful. There's the obvious one: you're learning to use a new tool. But the more interesting one is that you're also training the AI, in the sense of learning how to communicate with it effectively. The quality of what you get out is almost entirely a function of what you put in: how you frame your request, what context you provide, what you ask it to do and not do.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "be99c494-bd68-49a1-8e6e-1025421f05d7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Hiccup doesn't tame Toothless by issuing commands. He learns the dragon's nature — what it responds to, how to understand it, what it needs. There's a mutuality to it. That's a reasonable model for how to think about working with AI.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b58da288-59f6-4712-8c78-c3d75e0d09aa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Some Things I've Actually Used It For",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "848ff6a3-2c73-4876-952a-37d132fcf2c2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Building and managing reference libraries. I work across multiple research areas in public health. Keeping track of relevant literature across years can be tedious. Lately I've been using an AI-assisted workspace to organize references by year, type, and topic, with links attached, in a structured table I can actually query. This might sound mundane, but it has saved me hours and helped me find publications I might have missed before.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bb74c594-17de-450e-b2fc-e97904b3d1d6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Grant preparation. Preparing a competitive funding application involves synthesizing a huge amount of institutional knowledge about what the funder values, how to structure arguments, and what reviewers are looking for. I've used AI to draft initial frameworks, test my logic, and identify gaps in my rationale. It doesn't write the grant application, but it's a remarkably good thinking partner at 3pm my time when my US collaborators are asleep.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7427c203-9c29-498b-aa0d-3672c67d738d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Literature synthesis on complex topics. When I needed to get up to speed quickly on ethnic variation in Parkinson's disease prevalence and treatment patterns across Australasia, I used AI to help map the landscape. This is probably the use case I'd most recommend to social scientists: using AI as a first-pass orientation tool, not a final authority.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a8fd1e8d-e0d3-4cd4-bedf-a5f62d82c8c3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Drafting documents you'd rather not be drafting. I have used AI to help draft a formal appeals letter to an insurance company. I have used it to prepare a 90-day plan for a job interview. I have used it to draft emails I didn't know how to start. None of this is glamorous, but all of it was genuinely useful.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9cf30424-4ad4-452e-8b6a-5e0bc6535602",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Organizing messy lists into structured data. I recently had a list of researchers — names, titles, institutional affiliations — that I needed to cross-reference with institutional profile pages. Instead of spending an afternoon on Google, I described what I needed and worked iteratively with my AI tool to identify, retrieve, and populate the data into a structured table. Eighty-odd names, done in the time it would have taken me to do maybe fifteen manually.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f5974b53-eaf5-49da-81b7-7e8c8e92e4e9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What It's Not Good For (Yet)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e68c138d-ead2-479f-9cd7-a803c378362a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI is not good at knowing what it doesn't know. It will give you a confident-sounding answer about a niche topic in your field and be subtly wrong in ways that are hard to detect if you're not already expert. This is particularly dangerous in literature work — always verify citations independently.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bf3ae0e6-55cf-44cd-b6aa-b660a7cf7813",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "It is not a substitute for methodological expertise. It can help you explain your methods, but it shouldn't be generating them.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dc76b8fa-8aaa-492a-b6bc-36d83ffeee89",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "It has a tendency toward a certain blandness. Under the hood, genAI is kind of averaging all the text it has ever seen. You have to actively push against it if you want to write with a genuine point of view. The best use of AI in writing is as a structural scaffold, not a finished product.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "26de046c-15e4-46ef-9d5f-ae6063262a78",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "It doesn't know your field the way you do. It knows a lot about a lot of things. Your job is to give it the background information and resources it needs, plus good prompts, to get the tool properly trained.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e996f209-400d-4d12-a63c-323bcaaa8d77",
+            "text": {
+              "ops": [
+                {
+                  "insert": "CHAPTER 1: What AI Actually Is (and Isn't)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "3f979059-f118-400b-84bf-a977d80d8cb7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "In the 2010 film How to Train Your Dragon, the villagers initially misunderstand the nature of dragons, mistaking them for threats. This dynamic mirrors the cautious perspective many social science researchers adopt towards AI. Just as the hero Hiccup learns to approach the dragon differently, researchers can rethink their relationship with AI tools.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a3326707-712b-4b99-a33a-324b167a0590",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "So, what exactly is AI? At its core, AI refers to the simulation of human intelligence processes by machines, especially computer systems. This encompasses learning (the acquisition of information and rules for using it), reasoning (the ability to draw conclusions based on rules), and self-correction.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1237e3e-3c38-4c86-b11c-651c38a55f5d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "From chatbots to autonomous vehicles, AI is transforming industries and reshaping our day-to-day lives. Unfortunately, the conversation around AI tends to oscillate between utopian hype and existential panic, often leaving researchers uncertain about its practical benefits. Many in academia stand at a distance, grappling with legitimate concerns about plagiarism, data privacy, and the potential homogenization of ideas. Yet, as this guide will explore, responsible use of AI can genuinely transform workflows.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0c8c4c8b-05ee-49a0-866c-d92135ff921e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Generative AI vs. Traditional Machine Learning",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3fac2af7-a257-4a25-8c9a-87cbe5297e9f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "There are lots of different genAI models. Some create images, some can make videos, and some are pre-trained on huge knowledge bases. The type of genAI we will be focusing on is the Large Language Model, or LLM, of which ChatGPT is one of the better known (there are plenty of others).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7e9f67dc-fe46-4d73-b862-d53a7405b5e2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Under the hood, what LLMs actually do involves next-token prediction and pattern matching over training data. On its own, it is not actually reasoning, thinking, or knowing. In addition, for researchers it's important to note that LLMs like ChatGPT are typically black boxes lacking explainability and reproducibility.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7dee67dc-790c-4e73-afb6-1119ea57f33e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "In contrast, analytic and predictive ML tools, such as random forests and natural language processing (NLP) algorithms, generally provide explainable and reproducible results. They are typically established and published packages and programs that can help researchers in data mining, linkage, analysis, and prediction.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3dfd7ca6-cefb-478c-8703-834073864348",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Understanding these distinctions is crucial for researchers navigating the evolving landscape of AI. Ultimately, genAI doesn't replace the work researchers do; rather, it changes the way they can approach it. Just as Hiccup showed the villagers new possibilities by reframing their fears, researchers can harness AI to enhance their methodology and improve outcomes in their work.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "52c5b459-fbc9-4db8-bb5d-ff07bcbf4468",
+            "text": {
+              "ops": [
+                {
+                  "insert": "CHAPTER 2: Literature Synthesis",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "039f4f91-21c9-4a1c-a066-14059033aab5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Interestingly, the different versions of How to Train Your Dragon work as another AI analogy. The original (2010) and the sequels (2014, 2019) were all animated, while the latest version (2025) is live action. The live action version is much closer to real life, but you still know it's a movie. Just like how LLMs are much closer to sounding human than ever before, but they are still just computer programs.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "51523aa0-5417-40ad-8228-d488e32b3539",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Imagine you've just been asked to brief a team on ethnic variation in Parkinson's disease (PD) prevalence across Australasia. It's not your primary field. You're short on time, the topic is complex, and you don't want to miss the key debates and data gaps. This is exactly where AI can shine.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a7e95864-9dd7-4a06-89f9-eac52641c0b0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Hiccup Model: Observe Before You Act",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4ce05c4c-b79d-4cb0-8bb1-93513e49ea53",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "In How to Train Your Dragon, our hero Hiccup survives because he observes before he acts. While others are busy charging in, he watches the dragon, notes its reactions, and only then starts experimenting. Working with AI to search the literature is the same. If you rush in and treat outputs as instant facts, you're essentially charging a dragon head-on. The tool will give you fluent, plausible answers even when the evidence is shallow, outdated, or nonexistent. That's how you get confidently wrong statements about niche topics.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "13df97a8-14b0-4d77-8500-9c26bd6227f1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Instead, use AI as an observation tool:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "10e51772-603a-4535-987a-ff8a293ead43",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Observe the landscape: What are the main hypotheses about ethnic variation in PD in this region?",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d2cd49a6-66cb-40cd-9232-018a688c9216",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Observe the fault lines: Where do studies disagree, and why?",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c2a26beb-3a08-4257-94cc-50692b83e6b3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Observe the blind spots: Which groups, like Māori or Pasifika, are barely represented in the data?",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "16226e77-007d-42b7-8a8a-e483698259c2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Building Your \"Dragon's Hoard\" Reference Database",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1c723bc9-f29f-4e34-a403-810ba1082c62",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "In my own work, I've found that training your AI dragon is much easier if you give it a structured environment. Instead of a static list in EndNote, I use an AI-assisted workspace to organize references by year, population, and topic in a table I can query. I can also add to it automatically, with an autonomous search agent that pulls relevant papers as they're published and adds them to the database with a link.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "05d203ff-16ba-4c7d-901c-c32ad719da21",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "A stack of papers that I used to keep in a reference manager is now a dynamic body of literature I can sort, filter, and search in seconds. If I need references exported in any number of journal styles, I just tell the tool what I want — no more hunting around looking for styles to manually import!",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d12e5256-eb44-4a3d-bb29-da3f35136cd0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Verification Imperative",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3be5a2a-058e-4759-97c9-fca4fe2a68a2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Unlike a human expert, an LLM has no internal alarm bell that rings when it wanders into thin evidence. It can't tell you what it doesn't know. This is why the following guardrails are essential:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ea4e9219-10d3-46ff-b6cd-3149356f0608",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Verify every number.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Never trust a quoted prevalence rate or p-value without checking the primary source.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "8db6571f-a7fe-4ed6-8341-d326f01618d5",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Audit citations.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " AI can hallucinate references. If you haven't opened the PDF yourself, don't cite it.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "bd7d37c3-e455-42bc-8472-4bd69b4ac84f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Be transparent.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Disclose your use of AI tools to co-authors and editors.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "15473918-8fdd-468b-b620-88f72839680d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "A Practical, Step-by-Step Workflow",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "43b8bac6-302e-4c05-b045-d9144cae7490",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Frame the Question Precisely:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Don't ask, \"Tell me about PD.\" Be specific: \"Summarize major findings on ethnic variation in PD in Australasia since 2000. Emphasize Māori and Pasifika populations. What methodological issues complicate the data? Cite your sources.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "number",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ddd83d95-c13d-4e7e-b222-75d0f0b4cf52",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Get the Map, Not the Verdict:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Use AI to generate a whiteboard-style brainstorm of key themes, cohorts, and recurrent caveats, like diagnostic bias.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "number",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ec81f75d-674a-4618-bc88-d95e536d7651",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Cross-Check with Real Databases:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Take your refined queries to PubMed or Google Scholar. The AI can help you construct Boolean searches. Use the concepts you surfaced to build better, sharper search terms. This is where you build your real understanding.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "number",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a787b970-8cd5-4e28-8133-5ae80a2d8712",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Synthesize with Human Judgment:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " You remain the final arbiter. You decide which studies are weak and where the real uncertainty lies. AI can help you write faster, but it can't substitute for your professional judgment.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "number",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "6d73a34a-77e1-49fc-977f-56bfc94c6aaf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Used well, AI turns \"I have no idea where to start\" into \"I have a plan\" in a fraction of the time. But speed is a trap if you skip the verification. Be like Hiccup: lead with curiosity, but keep your eyes open.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ce83ddd8-0d1b-4a90-abda-4a04dc034bda",
+            "text": {
+              "ops": [
+                {
+                  "insert": "CHAPTER 3: Grant Writing",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "0d8f87d8-b44a-4747-9c57-6114cd45310e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "There is a persistent myth circulating in the halls of academia right now — a myth that Generative AI is a \"magic button\" for grant writing. The fantasy is simple: feed it a few bullet points, press a button, and out pops a fully formed and polished NIH R01 submission.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "737d723f-04eb-411e-9e49-a5a0be5881d2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If you have spent any time in the trenches of high-stakes funding, you know that this isn't just unrealistic; it's dangerous. A grant is a rigorous defense of a career's worth of expertise. However, there is a middle ground between \"AI-generated fluff\" and the traditional, solitary grind of late-night drafting. The dragon serves here as a thinking partner, not a ghostwriter.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d1fb42d6-b50d-4e54-bf0c-f2fd1d2d61a3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The 11 PM Partner: Why the Dragon Doesn't Write the Grant",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ccff40e2-6ba2-4f71-9a10-a0a75bf78867",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The dragon does not write the grant. If you ask an AI to write your proposal from scratch, it will produce something that sounds suspiciously like every other grant ever written — safe, generic, and ultimately devoid of the \"high-gain, high-risk\" spark that reviewers specifically hunt for. AI models are built on patterns; they are designed to give you the most \"average\" version of a sentence. In the world of elite research funding, average is an automatic rejection.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6f843f0b-e1f1-4f21-8570-398653d3179c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "It is acting as a remarkably high-functioning thinking partner at 11:00 PM. We have all been there: your co-investigators are asleep, your department head has checked out for the weekend, and you are staring at a paragraph in your \"Significance and Innovation\" section that feels... off. You know the logic is sound, but you can't see the gaps because you are too close to the material.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9f42fe2-b0e8-486f-81c5-0f081ecbd394",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "This is where the dragon excels. It doesn't need sleep, it doesn't get bored of reading your thirteenth draft, and it is capable of holding the entire structure of your argument in its \"head\" simultaneously. It is the sounding board that helps you refine your own brilliance.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "91b466f4-1ca5-4ce1-8c57-9100663bd59b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Synthesizing Institutional Knowledge",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9b4c535d-f254-4bc8-a418-728d5ed327a8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Every major funding body has its own \"vibe\" — an unwritten set of values that go beyond the formal guidelines. The Marsden Fund values the \"blue-sky\" potential and the intellectual caliber of the investigator. The NIH looks for rigorous clinical significance, feasibility, and a very specific \"Significance, Innovation, Approach\" structure.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a164572d-b570-4a8f-a93d-cf55c76f7f09",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The dragon can help you synthesize this institutional knowledge. By feeding the AI the specific reviewer instructions and your draft, you can ask it to play the role of a cynical reviewer. For example: \"Based on the Marsden Excellence criteria, where does this proposal sound too safe? Point out three places where my argument for impact feels more like incremental progress than a paradigm shift.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e8b7a804-3f3b-4b22-917e-0a0f118f6687",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Concrete Applications: Stress-Testing the Logic",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "de6fffd3-0254-466c-ad72-4e6cd550bbd3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "When you engage with AI as a thinking partner, your workflow shifts from \"drafting\" to \"interrogating.\" Here are three concrete ways to use this tool during the submission process:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "59dc89f1-d7bd-432e-9663-d77b26381701",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Drafting Initial Frameworks:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Use AI to build the \"skeleton.\" Ask it to take your core research questions and map them against the required headers of an NIH submission. This ensures you haven't missed a structural requirement before you start pouring your expertise into the sections.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a44853ae-39a6-42ed-bd9b-015a779b1a79",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stress-Testing Logic:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Tell the AI: \"I am arguing that X leads to Y through mechanism Z. Find the logical leaps. Where would a reviewer ask 'But what about A?'\" This identifies gaps in your rationale that you might have glossed over because they seem \"obvious\" to someone in your niche.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "474e29e5-8742-4dcc-8b13-e21469bc0c82",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Identifying Gaps in Rationale:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Reviewers often complain about a lack of cohesion between the \"Aims\" and the \"Approach.\" You can ask the AI to summarize your Approach section and see if it aligns with the Aims you stated at the beginning. If the AI can't see the link, a human reviewer definitely won't.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d1360d96-8b90-42fc-bd69-7d6befcd4a0a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What You Must Supply: The Human Element",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "53f34e7a-523e-4ae8-bca8-fd93bdaa7f19",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The dragon is powerful, but it is \"hollow\" without you. You must provide the three pillars that no AI can replicate:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ffb4f5d2-a9e3-4f48-beb0-986429aa8817",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Institutional Knowledge:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " You understand the political and social landscape of your university and the specific preferences of the current year's panel.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "1da3e75d-b0fa-4b08-b494-2963805b0839",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Field Expertise:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " You know which citations are non-negotiable and which \"hot topics\" in your field are actually overblown.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "3277f435-04d8-4c97-b514-f0be3d30c7ae",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Judgment:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Only you can decide if the AI's suggestion to \"tone down the ambition\" is a wise move for a specific funder or a mistake that will cost you the grant.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "940efe25-0d82-4b7e-ab0a-30474753cc4a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "A Note on Methodological Expertise",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cb52d551-52da-4a08-8c1f-ec702433a2c6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI can help you explain your methods, but it should never generate them. Your methodological expertise is the core of your professional identity. If you allow an AI to \"hallucinate\" a statistical power analysis or a sampling strategy, you are committing a fundamental breach of research integrity.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e352ac18-24ca-4ce7-9559-2d3f2b57b742",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "However, once you have designed your methodology, the AI is excellent at helping you articulate it clearly. It can help you find the most concise way to explain a complex longitudinal study design or check your description of a specific protocol for clarity and flow. The expertise is yours; the AI simply helps you stress-test the articulation of that expertise.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8005f95d-96ce-4222-9674-397b4bef8375",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "In the end, training your AI dragon for grant writing is about shifting your perspective. Stop looking for a shortcut to the finish line and start looking for a way to sharpen your own thinking. The next time you're working late and find yourself stuck on a tricky section of a proposal, don't ask the AI to write it for you. Instead, say: \"Here is my argument. Tell me why a reviewer might hate it.\" That is how you win.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ebb13707-ecf6-4f98-92b2-7608e45830d2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "CHAPTER 4: Data Wrangling",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e215463b-5833-4914-b2f9-67c141536b15",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Data wrangling covers three distinct tasks: cleaning and organizing, exploring and summarizing, and communicating visually. AI is useful at each stage, but in different ways.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3e57c2d-67a3-457e-9934-1ef6ae1dfdff",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "To extend the dragon metaphor: Toothless can fly, carry weight, and cover ground Hiccup couldn't cover alone — but our hero, Hiccup, still has to know where they're going.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b38236ae-8df5-4fc5-bfe9-995647638dd1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Data Cleaning and Organization",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cb1dd76f-8fa7-4d07-9888-cf08869179fe",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI is excellent at turning unstructured lists into structured tables: names, affiliations, dates, categories. This works for participant rosters, reference lists, interview transcripts with speaker labels, survey exports with inconsistent formatting, and so on.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f2d76f2b-1d52-499d-bf9e-8fb0a5c49be6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "As a concrete example, you can paste the raw export from a survey tool (Qualtrics, REDCap) and ask AI to identify inconsistent response categories, flag likely data entry errors, and suggest a cleaning protocol. Not a replacement for cleaning the data yourself — but an excellent first pass that tells you where to look.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5f2a47b3-787a-4be3-bc7c-c80d66f67fb7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "For codebook generation — one of the most painful but important tasks — you can give your AI tool a dataset with variable names and ask it to draft a codebook. Then you can edit it. This is much faster than starting from scratch and is especially useful when inheriting someone else's data.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a4200342-0c3f-4d09-b8d7-d3bf34b79580",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Exploratory Analysis and Code Generation",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "af841c35-f1c3-422b-8fa4-29a84d88b0d1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI dragons are generally pretty good at quickly generating well marked-up, logical code (such as R, Python, or Stata) for standard analyses. Descriptive tables, regression models, survival analysis, multilevel models — you describe what you want; it drafts the code; you run it, check it, and modify it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "54c9a4e0-41f6-4cef-b4e1-98b75d04d61a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "This use case is really helpful for researchers who use statistical software occasionally rather than daily, teams working across different software environments, and anyone who needs to adapt code from a methods paper to their own dataset structure. For example, if you're working with colleagues who have SPSS code, but not Stata or R, the AI tool can rapidly translate between programming languages.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8ca795ef-3c31-47f1-9902-9b4b21a8174e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Another useful AI capability is error interpretation: paste in an error message you don't understand and ask AI to explain it and suggest a fix. This is one of the most underrated uses — it turns cryptic output into plain English without requiring you to excavate Stack Overflow.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c78d8df3-0a6b-4f4d-a911-94cfcb56b14a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Visualization",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9bf7b5ab-06bc-4ddc-8ed1-a02c6113ece6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI tools can generate ggplot2, matplotlib, or Tableau-ready code from a description of what you want to show. Describe the variables, the story you want to tell, and the audience, and you'll get a working draft chart in the right format to iterate from.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "94f8b78f-507d-4f21-b4bf-3b86fc8d009a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Another handy skill is to ask your favorite AI, \"What's the right chart type for comparing three continuous variables across four ethnic groups over time?\" and you'll get a useful starting point for the decision — usually with caveats about your audience and publication format. Treat this as a thinking prompt, not an instruction.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a267466f-f0c5-4a24-8eea-765ac7420b62",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What AI Cannot Do and Why This Matters",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "74a4586c-65b3-4c7c-bd6b-50ebd5809ef7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "There are clear limits to what AI can do in the data space:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "0c09c8c3-6ff6-425d-9397-cfe7f49e8d4f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "It cannot make analytical decisions for you. Which covariates to include in a model, whether a result is clinically meaningful, how to handle a systematic missing data pattern — these require your domain expertise and your knowledge of study design. AI will give you an answer if you ask; however, the answer may be totally off-base.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "df95e136-a865-49b2-aec2-116ed1eff8d9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "It cannot access your data directly (unless you're using a tool with file upload, in which case: check your institution's data governance policy before uploading anything identifiable). Most useful data work with AI involves describing your data structure and pasting summary outputs — not sharing raw data.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "fd16b50c-f299-4083-83c0-c3c3b6d2d240",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "AI is worse with numbers than with words. It can misread tables, hallucinate statistics, and present incorrect results with the same confident fluency as correct ones. Any number AI gives you needs to be independently verified against your actual output.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "57da6960-6951-4ae3-b708-533c1a14d23a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Toothless gets Hiccup off the ground and across terrain that would take days on foot. But Hiccup reads the map, sets the destination, and knows when to land. The data is yours, the interpretation is yours. AI provides the wings.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e0937300-4f0e-4705-bf89-a2b8026b80fd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "CHAPTER 5: Writing & Editing",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "f23f017d-ccba-4471-8622-acdee7cd8416",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Obviously, dragons are not real. They are a legend, a metaphor, and a recurring theme in art, literature, and even music — but dragons are still just a fantasy. Similarly, it's a fantasy to imagine that AI tools can reason, think, or create in the same way as humans. What's not a fantasy is that these tools have been trained on vast oceans of material produced by humans across the ages.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e61a5151-e609-407a-9b85-fc90a5c0ef24",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Given that these AI tools may well have ingested lots of science fiction and fantasy about AI, is it any wonder that, when prompted on things like whether or not they're sentient, they sometimes respond like something out of a sci-fi novel? Don't be fooled!",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0a073044-5651-4b46-8814-986053705585",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "That said, many millions of people have found that these tools really excel in generating and editing text in various languages, including computer languages. Some may dismiss anything they generate as \"slop.\" The truth is that what you get may be slop or successful depending on how you work with the tool. In other words, slop in, slop out.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ae0b079d-4d85-43d0-a298-7c3aeab2d608",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Cardinal Sin: Claiming AI Words as Your Own",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9dbe71d9-c64c-422a-af74-f1a939e11a04",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Full disclosure: the emails in this series were drafted by the author, then refined and edited using AI tools. Importantly, everything was paraphrased, rewritten, and heavily edited. The AI output was never used straight.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7c4be81e-8107-4966-805a-4727368786c2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Doing so is risky and foolish because by now we know that AI-generated text is full of \"tells\". Perhaps you've heard about em-dashes, for example? It's not just em-dashes, though. There are documented words and phrases that are many times more common in AI text than human text. Tools like Pangram (pangram.com) can detect how much of a piece of text was AI-generated.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0d10537b-384f-40c3-ae04-5bce27ccb8f6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Five Tools to Try",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c3945680-13cf-4326-8722-e1d26a0e9985",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Remember that Toothless the Dragon can't fly alone, because he is missing half his tail? He needs Hiccup's custom-built mechanical rig — and constant adjustments — to get off the ground. Your prompts and feedback are that rig. Without your specific direction, input, and constraints, the AI will just crash (metaphorically, of course).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "568f204a-9a67-4bc9-a280-04ddb58d8257",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "All five major tools have been trained on huge datasets to generate human-like text, supporting a variety of applications ranging from casual conversations and content creation to coding assistance. They all emphasize user privacy and data protection to varying degrees. As of this writing, all are available for free for at least a trial period.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "bf543edd-3bb9-4266-aae5-f31cf3cc4dfa",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "ChatGPT (chatgpt.com):",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " OpenAI's viral smash hit. Highly adaptable; strong community support; frequent updates. Cons: expensive monthly fee; retains user data.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c0b0133c-ab39-4795-be0c-665be1ad587e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Claude (claude.ai):",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Developed by Anthropic. Ethical focus, minimal data retention, advanced machine-reasoning skills. Cons: can be slower than competitors.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "9eb859d6-92d0-45f5-9e05-377843e1f799",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Co-Pilot (copilot.microsoft.com):",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Deep integration in coding workflows; good for developers. Cons: shares data with Microsoft.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "4bea9e23-933f-4c1c-aea3-c48224bb43c2",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "DuckAI (duck.ai):",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " User-friendly; good for educational contexts. Cons: may lack depth in professional applications.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "671653e2-c7ab-4e2f-b562-76a0731d5f70",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Gemini (gemini.google.com):",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Strong analytics; beneficial for many uses including \"vibe coding\" and web development. Cons: concerns about data aggregation; privacy implications with Google integration.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "33c7f424-aaae-4814-a095-948a9c1407ee",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Saving the Planet: The Environmental Question",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7ff503b5-80da-48db-af87-a0fb30e0a3eb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If you are concerned with the environmental impact of these different tools, the honest answer is: we don't really know. Full lifecycle (scope 3) disclosures are not available. What we do know is that the median per-prompt energy usage for Gemini has been reported as approximately 0.24 Wh, while a typical short-text query to ChatGPT (model 4 family) uses around 0.3–0.45 Wh and results in approximately 0.1–0.2 g CO2e.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3d986258-b813-4d9e-9c36-c13965ae485c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "To put this in perspective, the median Gemini prompt costs the equivalent of running a standard household LED lightbulb for about 1.6 minutes. However, when you multiply that by billions of queries globally every day, those fractions of a watt-hour rapidly add up to serious grid demand. We should demand better from the people and corporations behind these models.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e186b265-0803-4d73-9bc5-03ac51271a11",
+            "text": {
+              "ops": [
+                {
+                  "insert": "CHAPTER 6: Job Hunting",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "8d5410e1-d421-4ada-9232-6883ecd2a830",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "After being laid off in October 2025, after 16 years in the same role, I started researching the new job-hunting landscape. The good news is, there are some really great tools out there now. The bad news is that there are many, many people chasing the same small pool of jobs, and it's a really difficult time to be looking.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f3593717-1b52-40c8-832f-6748e9135715",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "But fear not! If you've read this far, you have a secret weapon: you know how to train your AI dragon.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "710d8aad-e256-445f-a4be-80a31e48d835",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Everything We Know About Them is Wrong\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a164e0f7-88fb-4886-a5c8-d97831735b66",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Early in the movie How to Train Your Dragon, Hiccup reads the Dragon Manual — the village's definitive guide to hunting, fighting, and surviving dragons. Every entry ends with a blunt directive: Extreme danger. Kill on sight. The turning point happens when Hiccup interacts with Toothless and realizes the manual is useless. He utters the line that shifts the entire story: \"Everything we know about them is wrong.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9f994473-b1f6-468d-89a1-5f42d369954b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Most traditional job-hunting advice is the equivalent of the old Dragon Manual. It tells you to send out hundreds of resumes, use keyword-stuffing hacks to beat the applicant tracking system (ATS), and treat the employer-side AI as a hostile beast that you have to outsmart or conquer. When you treat AI or the market like an adversary to hunt down, you just end up exhausted. The modern trick is realizing that these tools aren't enemies to fight.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5a62d60d-df02-40a0-9356-2b4bffabc412",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "How AI is Used on the Employer Side",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3feb1cda-c0f7-4e73-9c04-a7a34db25470",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Many recruiting teams are shifting away from keyword-matching systems toward complex, multi-layered workflows and autonomous agents:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "59145e82-7bdc-4187-939c-3200e51c5cd5",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Semantic Screening & Contextual Matching:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Modern ATS systems like Workable use semantic matching. They don't just look for the word Python, they look at the surrounding context to understand how you used it and your level of autonomy.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "409e4058-c37c-4883-b9e8-8d6d176428e6",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Candidate Sourcing Agents:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Platforms like Pin use automated models to scan massive, public profile databases (spanning hundreds of millions of professional profiles) to proactively score and rank passive candidates against an open position before a recruiter even looks at an active application pile.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "4681ed25-7167-4ce6-8902-c2db00f9cc50",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Interaction Logging:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Tools like Read AI are increasingly used to transcribe interviews, analyze technical discussions, and log context into centralized talent databases, replacing human notes with searchable transcripts.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "3410eec9-291a-4402-ba08-bac27cf086bb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Tailoring Resumes & Cover Letters",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f05cb232-da05-4a68-b783-4d106c9db9a4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The biggest mistake job seekers make is asking an LLM to \"write a resume for this job description.\" This yields generic, AI-sounding prose that recruiters spot instantly. Instead, build a Fact Bank that treats your real career history as the absolute source of truth.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "44a3409c-f026-4f67-bdfd-0f270368e80c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Setting Up Your System:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "993e328f-e220-44be-933b-93cc1762e3c3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Establish a Fact Bank:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Create a single document containing every project, metric, tool, and role you have ever had. Include extensive, unedited details.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ebd33168-1871-41c3-96a1-ec4961be4aec",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Construct a Strict System Prompt:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " When passing your resume and a target job description to an AI tool, enforce strict boundaries: \"Change emphasis, phrasing, and context, but do not invent new skills, metrics, dates, or achievements. If something isn't in my Fact Bank, do not include it.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "72a87317-658e-4c54-bee0-401018a7c0f6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Testing Your Resume Against the Bots",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8ae77d8f-ab47-45dc-aff7-086cbc4f77b4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If you want to run a diagnostic to see how an automated system reads your profile, there are dedicated public tools that reverse-engineer common recruiter ATS parsing algorithms:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ab160894-a192-4775-9e2c-d669c334bc9e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Jobscan:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " The Jobscan ATS Resume Checker allows you to paste your resume alongside a specific target job description. It generates a weighted match report identifying missing hard skills, tool proficiencies, and structural red flags.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "146b0220-2bf5-440c-a1b9-c43b2775c406",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "LinkedIn:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " The premium feature highlights jobs for which you might be a top candidate and does tailored job searches, cover letter writing, and more. A one-stop-shop for job hunting.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b71c5229-1b0b-40bd-bb85-b3162a248312",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Cake AI:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " For a lighter evaluation tool, Cake AI scores resume formatting, keyword density, and bullet-point impact against a specific job posting, offering direct inline suggestions for refinement.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "4afed83b-581b-4a9f-b3d0-c12977dbc431",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Job Aggregators & Dashboards",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cc6f8b08-6aa3-4281-b4a7-6b5b316510bd",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Using AI to scrape listings and pipe them into a centralized hub is a great alternative to endlessly scrolling through job boards. One approach is building a \"Morning Job Scout\" — an automated tool set to scrape job listing sites every morning and put them on a dashboard. While custom to your needs, public templates exist including Notion Marketplace Jobs Dashboards and AI scraping pipelines using tools like Browse.ai with Make or Zapier to push raw data into Notion or Airtable.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "abd81fda-a523-4d18-bba3-3c6d27f45b4d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "EPILOGUE: Final Thoughts on Training Your AI Dragon",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d5ee3028-8c95-48ea-8b82-86fe2ef9839b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If you are building out workflows, content, or systems around \"training your AI dragon,\" keep these three fundamental operational rules in mind.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8ec614f1-9805-46c3-9637-11ef7a7df547",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Rule 1: Stop Yelling Commands (Build the Harness)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d132e2bf-9506-4aff-af5d-6034a7d72a27",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "New users treat AI like an unruly beast — they throw vague commands at it (\"Write me a cover letter!\") and get frustrated when it produces fire-breathing, hallucinated slop. Training the dragon means building structured frameworks. Give it a Fact Bank (constraints), a System Prompt (identity), and a Step-by-Step Sequence (clear direction). The tighter your constraints, the more precise the execution.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9c5c7efd-2fec-4bf0-84c9-8690777ea8f3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Rule 2: Human in the Loop",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "82c7d842-3fa8-4d01-9047-5d795e13f2fc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The most iconic scene in the movie is Hiccup extending his hand, closing his eyes, and letting Toothless bridge the final gap. In AI terms, this is the Human-in-the-Loop. Never let your AI systems run entirely on autopilot. You must verify the outputs, check the data integrity of your scraped dashboards, and ensure the tailored resume still sounds like your human voice. The AI provides the speed and lift; you provide the soul and direction.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "711fd1eb-ef7a-4be8-a40e-e7b6c0783cea",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Rule 3: Change the Village Mindset",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8cf9a558-d894-43cd-b83a-fa3db694be3a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Hiccup didn't just train Toothless; he ultimately changed how the entire village operated. When you train your AI dragon to scrape data, manage personal dashboards, and systematically isolate your best career metrics, you stop acting like a desperate applicant. You start operating like a person who understands exactly how to navigate the modern digital landscape.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cd81feca-da35-45b6-a140-4734b26ae745",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Hiccup didn't convince the whole village at once. He just showed them what was actually possible when you stop keeping your distance. Now it's your turn.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📱"
+    },
+    "background": {
+      "data": {
+        "value": "bg-0036"
+      },
+      "type": "default"
+    }
+  }
+}
